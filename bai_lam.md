@@ -1,10 +1,10 @@
 # BÀI LÀM – HACKATHON 01
 
 - **Mã đề:** 19
-- **Họ tên:** 
-- **Lớp:** 
+- **Họ tên:** Huỳnh Gia Nghiêm
+- **Lớp:** HCM-KS26-CNTT2
 - **Link repository:** 
-- **Hệ điều hành (Windows/macOS):** 
+- **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
@@ -12,6 +12,14 @@
 
 ```shell
 # Ghi lần lượt các lệnh đã chạy, mỗi lệnh một dòng
+
+
+pwd :   Directory: D:\HCM_KS26_CNTT2\IT108\ThiGiuaMon\du-lich-website
+Get-ChildItem -Recurse -Force
+Move-Item .\lich_trinh.txt .\docs\
+Move-Item .\logo_du_lich.PNG .\media\
+
+rm .\*.tmp
 
 ```
 
