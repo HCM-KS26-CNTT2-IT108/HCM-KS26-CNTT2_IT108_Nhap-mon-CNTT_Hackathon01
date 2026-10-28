@@ -3,7 +3,7 @@
 - **Mã đề:** 19
 - **Họ tên:** Huỳnh Gia Nghiêm
 - **Lớp:** HCM-KS26-CNTT2
-- **Link repository:** 
+- **Link repository:** https://github.com/HCM-KS26-CNTT2-IT108/HCM-KS26-CNTT2_IT108_Nhap-mon-CNTT_Hackathon01.git
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
